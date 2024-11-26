@@ -1,4 +1,10 @@
 site_name: AI on GKE
-site_url: https://mydomain.org/mysite
+site_url: https://genlu2011.github.io/site
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.indexes
